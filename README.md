@@ -1,4 +1,4 @@
 # SIP_LAG
-Code for "Sparse Cut Generation via Multi-Term 0-1 Disjunctions" in my thesis
+Code for the paper "Sparse Multi-Term Disjunctive Cuts for the Epigraph of a Function of Binary Variables" (https://arxiv.org/abs/2111.07855)
 
-Results in the thesis were generated using Python 3.7 and Gurobi 9.1
+Results in the paper were generated using Python 3.7 and Gurobi 9.1
